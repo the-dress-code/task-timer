@@ -1,6 +1,6 @@
 # the-dress-code/task-timer
 
-FIXME: my new application.
+Someday, this project will be a timer to keep you on track with your tasks. It is still in development and not ready for use at this time. Ignore the below instructions.
 
 ## Installation
 
